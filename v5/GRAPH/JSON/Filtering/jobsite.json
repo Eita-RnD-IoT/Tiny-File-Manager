@@ -1,0 +1,36 @@
+{
+    "Selangor": [
+        {
+            "Jobsite": "GM Klang Wholesale City",
+            "Lift PMA": [
+                {"Block A": "SLPMA48155"},
+                {"Block A": "SLPMA48156"}
+            ]
+        },
+        {
+            "Jobsite": "EITA-Schneider",
+            "Lift PMA": [
+                {"Cargo Lift": "TTC1PMA"},
+                {"Passanger Lift": "TTP1PMA"},
+                {"Glass Lift": "SLPMA90125"}
+            ]
+        }
+    ],
+    "Kuala Lumpur":[
+        {
+            "Jobsite": "The Strite Strata Office BBCC",
+            "Lift PMA": [
+                {"Block A": "WPPMA94768"},
+                {"Block A": "WPPMA94858"}
+            ]
+        },
+        {
+            "Jobsite": "Residensi Pudu Alam Rekreasi (PARC3)",
+            "Lift PMA": [
+                {"Block A": "WPPMA93264"},
+                {"Block A": "WPPMA93511"},
+                {"Block A": "WPPMA93510"}
+            ]
+        }
+    ]
+}

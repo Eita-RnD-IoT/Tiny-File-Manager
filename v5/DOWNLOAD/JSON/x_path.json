@@ -1,0 +1,9 @@
+{
+    "download": {
+        "username_xpath": "/html/body/div/section/div/div/div/div[1]/div/form/div[2]/input",
+        "password_xpath": "/html/body/div/section/div/div/div/div[1]/div/form/div[3]/input",
+        "signin_button_xpath": "/html/body/div/section/div/div/div/div[1]/div/form/div[5]/button",
+        "token_xpath": "//html/body/div/section/div/div/div/div[1]/div/form/input",
+        "csv_files_xpath": "/html/body/div[1]/form/div[1]/div/table/tbody/tr"
+    }
+}

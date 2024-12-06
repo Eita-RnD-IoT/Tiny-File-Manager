@@ -1,0 +1,15 @@
+{
+    "JSON": {
+        "credentials": "JSON/credential.json",
+        "csv_download_link": "JSON/csv_path_link.json",
+        "x_path": "JSON/x_path.json",
+        "url": "JSON/url.json",
+        "jobsite": "JSON/jobsite.json",
+        "directory": "JSON/dir.json"
+    },
+    "CSV": {
+        "csv_files": "CSV Files",
+        "zip_csv": "ZIP CSVs",
+        "data_deduplication": "Data Deduplicated CSVs"
+    } 
+}

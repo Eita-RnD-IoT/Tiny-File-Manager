@@ -1,0 +1,39 @@
+{
+    "root": "C:\\Data\\Documents\\Arduino\\Data Analysis\\v5",
+    "download": [
+        {
+            "download_root": "DOWNLOAD"
+        },
+        {
+            "download_csv": "DOWNLOAD/CSV Files"
+        },
+        {
+            "download_json": "DOWNLOAD/JSON"
+        },
+        {
+            "download_deduplicate": "DOWNLOAD/Data Deduplicated CSVs"
+        }
+    ],
+    "measurement": [
+        {
+            "measurement_root": "MEASUREMENT"
+        },
+        {
+            "measurement_json": "MEASUREMENT/JSON"
+        },
+        {
+            "measurement_data_analysis": "MEASUREMENT/JSON/Data Analysis"
+        }
+    ],
+    "graph": [
+        {
+            "graph_root": "GRAPH"
+        },
+        {
+            "graph_json": "GRAPH/JSON"
+        },
+        {
+            "graph_jobsite": "GRAPH/JSON/Filtering"
+        }
+    ]
+}
